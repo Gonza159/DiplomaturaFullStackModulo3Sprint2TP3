@@ -1,0 +1,16 @@
+{
+  "name": "diplomaturafullstackmodulo3sprint2tp3",
+  "version": "1.0.0",
+  "description": "TP3 Modulo3 Gonzalo Soria",
+  "main": "app.mjs",
+  "dependencies": {
+    "mongoose": "^8.8.0",
+    "express": "^4.21.1"
+  },
+  "scripts": {
+    "start": "node app.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gonzalo Soria",
+  "license": "ISC"
+}
